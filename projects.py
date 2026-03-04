@@ -1,1 +1,1 @@
-str = nome_usuario 
+str = "nome_usuario "

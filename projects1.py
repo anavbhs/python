@@ -63,7 +63,7 @@ elif plano == "2":
 elif plano == "3":
     print("\n Plano VIP \n Benefícios: ")
     print("Tudo do Premium \n Consulta 24h com atendimento prioritário")
-    print("2 vezes hotelzinho\mês e pode ser acumulativo! e muito mais")
+    print("2 vezes hotelzinho por mês e pode ser acumulativo! e muito mais")
 nota = int(input("Nota de Satisfação perante aos nossos Benefícios dos planos: "))
 if nota >= 9:
     print("Você disse que é excelente, obrigado!")
@@ -82,4 +82,3 @@ if cirurgia =="sim" :
         print("pode fazer a cirurgia")
 if cirurgia == "sim":
     cliente_vip = input("Você é cliente vip")
-    
